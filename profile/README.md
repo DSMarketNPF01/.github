@@ -100,22 +100,6 @@ Este proyecto fue desarrollado por el equipo del Máster en Data Science durante
 Tutor:
 Daniel Pegalajar Luque
 
-
-
-
----
-
-## 📂 Estructura del Repositorio
-DSMarket/
-├── notebooks/              # Análisis exploratorio y clustering
-├── model/                  # Entrenamiento y guardado del modelo
-├── api/                    # Código de la API FastAPI
-├── docker/                 # Dockerfile y configuración
-├── cloudbuild.yaml         # Configuración de CI/CD
-├── frontend/               # index.html y recursos para GitHub Pages
-├── data/                   # Datos de entrada (.csv, .pkl, etc.)
-└── README.md               # Documentación del proyecto
-
 ---
 
 ## 📬 Contacto
