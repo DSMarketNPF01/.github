@@ -106,4 +106,23 @@ Daniel Pegalajar Luque
 ---
 
 ## 📂 Estructura del Repositorio
+DSMarket/
+├── notebooks/              # Análisis exploratorio y clustering
+├── model/                  # Entrenamiento y guardado del modelo
+├── api/                    # Código de la API FastAPI
+├── docker/                 # Dockerfile y configuración
+├── cloudbuild.yaml         # Configuración de CI/CD
+├── frontend/               # index.html y recursos para GitHub Pages
+├── data/                   # Datos de entrada (.csv, .pkl, etc.)
+└── README.md               # Documentación del proyecto
+
+---
+
+## 📬 Contacto
+
+Para cualquier duda o comentario, por favor contacta con el equipo docente del máster o abre un *issue* en este repositorio.
+
+---
+
+🚀 *DSMarket: Impulsando el retail con inteligencia de datos.*
 
